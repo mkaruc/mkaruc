@@ -1,53 +1,24 @@
-
-## Hi there. I'm F.Mehmet Karuc...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- :house: I am a React & React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from İzmir / Turkey.
-
+# 💫 About Me:
+🔭 I’m currently working on SoftNovaMax as React(Nextjs) & React Native Developer
 
 
-## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-mehmet-karuc/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:fatihmehmetkaruc@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaruc" alt="mkaruc" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dt.develeper) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatih-mehmet-karuc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fmkaruc) 
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mkaruc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mkaruc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaruc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mkaruc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=mkaruc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-                                                                                                                                      
- 
-                                                                                               
-## :star2: My Projects: 
-## With React
-- <a href="https://firecontact-mkaruc.netlify.app/" target="_blank" >Fire-Contact-App</a>
-- <a href="https://movie-app-mkaruc.vercel.app/" target="_blank" >Firebase-Movie-App</a>
-- <a href="https://github.com/mkaruc/recipe-app-project/tree/context-reducer" target="_blank" >Recipe-App--Project</a>
-- <a href="https://github.com/mkaruc/task-tracker" target="_blank" >Task-Tracker-Project</a>
-- <a href="https://github.com/mkaruc/tour-place" target="_blank" >Tour-Project</a>
-- <a href="https://github.com/mkaruc/language-card" target="_blank" >Language-Card-Project</a>
-- <a href="https://react-blog-app-enes.netlify.app/" target="_blank" >ReactBlog-App</a> 
-## Without React
- 
- - <a href="https://github.com/mkaruc/netflix-project" target="_blank" >Netflix-Survey-Form</a>
- - <a href="https://github.com/mkaruc/guessTheNumber" target="_blank" >Guess-Number-Project</a>
- - <a href="https://github.com/mkaruc/toDoList" target="_blank" >To-Do-List-Project</a>
- - <a href="https://github.com/mkaruc/ioscalculator" target="_blank" >IOS-Calculator</a>
- - <a href="https://github.com/mkaruc/checkout-js" target="_blank" >Checkout-Page-Project</a>
- - <a href="https://github.com/mkaruc/weather-app" target="_blank" >Weather-App-Project</a>
- - <a href="https://github.com/mkaruc/JS30days-day1-drumKit" target="_blank" >Drum-Kit</a>
- - <a href="https://github.com/mkaruc/JavaScript30-day2-Clock" target="_blank" >Clock</a>
- - <a href="https://github.com/mkaruc/JavaScript30-day3-CSSJS" target="_blank" >css-variables-with-js</a>
- - <a href="https://github.com/mkaruc/JavaScript30-day5-flexPanelsImageGallery" target="_blank" >Flex-Panels-Image-Gallery</a>
- - <a href="https://github.com/mkaruc/JavaScript30-day6-ajaxTypeAhead" target="_blank" >Turkish-Cities</a>
- - <a href="https://github.com/mkaruc/JavaScript30-day8-html5Canvas" target="_blank" >HTML5-Canvas</a>
-
-## :fire: My Stats :
-                                                                        
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mkaruc&show_icons=true&theme=dark)"  alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mkaruc&theme=dark&hide_border=true" alt="my commit status" width="49%" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaruc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="my commit status" width="49%" /> 
-</p>
-<p align="center"> <img src="[(https://github-readme-stats.vercel.app/api/top-langs?username=mkaruc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/mkaruc)]" > </p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
